@@ -1,0 +1,64 @@
+# Core Deep Learning & ML Framework
+torch==2.1.2
+torchvision==0.16.2
+transformers==4.35.2
+Pillow==10.1.0
+scipy==1.11.4
+numpy==1.24.3
+pandas==2.1.3
+scikit-image==0.22.0
+scikit-learn==1.3.2
+
+# Segment Anything Model & Computer Vision
+segment-anything==1.0
+opencv-python==4.8.1.78
+albumentations==1.3.1
+
+# Geospatial & Remote Sensing
+rasterio==1.3.10
+fiona==1.9.6
+geopandas==0.14.1
+shapely==2.0.1
+proj==3.6.1
+EOReader==0.16.7
+sentinelhub==3.19.0
+
+# Data Processing & Utilities
+tqdm==4.66.1
+python-dotenv==1.0.0
+PyYAML==6.0.1
+pydantic==2.5.0
+click==8.1.7
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.1
+plotly==5.18.0
+
+# Notebooks & Development
+jupyter==1.0.0
+jupyterlab==4.1.0
+ipython==8.18.1
+ipywidgets==8.1.1
+
+# Testing & Documentation
+pytest==7.4.3
+pytest-cov==4.1.0
+black==23.12.0
+flake8==6.1.0
+mypy==1.7.1
+sphinx==7.2.6
+
+# API & Web
+requests==2.31.0
+aiohttp==3.9.1
+fastapi==0.109.0
+uvicorn==0.27.0
+
+# AWS Integration (Optional)
+boto3==1.34.7
+s3fs==2023.12.1
+
+# Google Cloud Integration (Optional)
+google-cloud-storage==2.10.0
+google-cloud-ai==0.1.1
